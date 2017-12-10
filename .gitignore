@@ -53,3 +53,28 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+# Eclipse project files
+.classpath
+.project
+target/
+
+# Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+**/.idea/
+**/*.iml
+build/
+target/
+
+# Crashlytics
+.crashlytics_data/
